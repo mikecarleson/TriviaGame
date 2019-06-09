@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+  }
+
+.main-div {
+    border: solid 2px black;
+    align-content: center;
+    background: green;
+    color: gold;
+}
+header {
+    font-size: 3rem;
+    border-bottom: 5px solid white;
+}
+#results {
+    color: white;
+    font: italic;
+    font-size: 2rem;
+    background: gold;
+}
